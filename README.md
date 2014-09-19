@@ -1,12 +1,10 @@
-Simple Express Static File Server
+Todos in Backfire
 =================================
 
 Description
 -----------
 
-A very simple static file server. For development use only.
-
-Install dependencies (first time only):
+Install dependencies
 
     $ npm install
 
